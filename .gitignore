@@ -2,3 +2,8 @@
 raw_datasets/*.json
 raw_datasets/*.csv
 *.json
+.cache
+.config
+.ipython
+.jupyter
+.local
