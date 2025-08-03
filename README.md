@@ -43,7 +43,7 @@ git clone https://github.com/krmiller678/CAP4770_Final_Project_Group9.git
 Build and run Docker image:
 ```
 cd CAP4770_Final_Project_Group9
-docker build --tag cap4770:2.0
+docker build --tag cap4770:2.0 .
 docker run -v $(pwd):/home/datascience -p 8888:8888 -it cap4770:2.0
 ```
 
