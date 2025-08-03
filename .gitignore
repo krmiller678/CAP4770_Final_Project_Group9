@@ -1,4 +1,9 @@
-yelp_academic_dataset_business.json
-yelp_academic_dataset_review.json
-.ipynb_checkpoints/FinalProject-checkpoint.ipynb
-filtered_reviews.json
+.ipynb_checkpoints
+raw_datasets/*.json
+raw_datasets/*.csv
+*.json
+.cache
+.config
+.ipython
+.jupyter
+.local
